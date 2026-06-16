@@ -1,0 +1,41 @@
+@import "./common.css";
+
+.profile-header {
+  padding: 20px;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.profile-content {
+  padding: 20px;
+}
+
+.profile-info {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.profile-info img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+
+.profile-info h4 {
+  margin-bottom: 5px;
+  color: #1d2226;
+}
+
+.profile-info p {
+  color: #555;
+}
+
+.profile-description {
+  margin-top: 20px;
+  line-height: 1.7;
+  color: #1d2226;
+  border-bottom: 1px dashed #ddd;
+  padding-bottom: 20px;
+}

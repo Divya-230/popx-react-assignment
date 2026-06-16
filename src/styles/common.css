@@ -1,0 +1,9 @@
+.mobile-screen {
+  width: 375px;
+  height: 812px;
+  background: white;
+  margin: auto;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
+}
